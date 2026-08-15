@@ -51,6 +51,19 @@
 
 ## ⬇️ 下載（Windows / macOS / Linux）
 
+> ### 🔧 本 fork 修改版 — Windows 可攜免安裝
+>
+> 這個 fork 額外修好了**輸入到 cmd / PowerShell / Windows Terminal 等「主控台視窗」**的問題
+> （原版在主控台打不出字），並新增「**主控台輸入方式**」設定（自動 ／ 一律逐字打字 ／ 一律貼上）。
+>
+> ### 🪟 **[下載 Windows 可攜修改版（.zip，約 739 MB）](https://github.com/max0821/SpeakSlow/releases/latest/download/SpeakSlow-Portable-win-x64.zip)**
+>
+> 解壓縮 → 執行 `SpeakSlow.exe` 即可使用（**免安裝**、AI 模型已內建、語音辨識全程本機不上雲）。
+> 若要輸入到「以系統管理員身分執行」的視窗，請對 `SpeakSlow.exe` 按右鍵 →「以系統管理員身分執行」。
+> 變更細節見壓縮包內的 `修改說明_MODIFIED.txt`。
+>
+> <sub>基於原專案 [Jeffrey0117/SpeakSlow](https://github.com/Jeffrey0117/SpeakSlow)（Apache License 2.0）。以下為原版官方下載連結。</sub>
+
 <div align="center">
 
 | 🪟 Windows | 🍎 macOS (Apple Silicon) | 🐧 Linux |
